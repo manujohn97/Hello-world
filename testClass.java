@@ -4,7 +4,7 @@ public class testClass
 	{
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("Hello Manu how are you");
+			System.out.println("Changing java datas");
 		}
 	}
 	
